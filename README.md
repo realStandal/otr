@@ -14,6 +14,7 @@
 - Minecraft Transit Railway
 - Mythic Mounts
 - Small Ships
+- Tropicraft
 - William Wythers' Expanded Ecosphere
 - YUNG's Better Series
 - ...and more...
