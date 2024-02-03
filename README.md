@@ -2,7 +2,6 @@
 
 - Ad Astra
 - Aether
-- Alex's Mobs
 - Applied Energistics 2
 - Automobility
 - Better Combat
@@ -14,9 +13,7 @@
 - JourneyMap
 - Minecraft Transit Railway
 - Mythic Mounts
-- Naturalist
 - Small Ships
-- Supplementaries
 - William Wythers' Expanded Ecosphere
 - YUNG's Better Series
 - ...and more...
